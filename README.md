@@ -3,14 +3,10 @@ A Fun Portfolio Website Based On BreakingBad theme .
 
 <img src="heisenberg.jpeg" alt="HeisenBerg" width="120">
 
-# heisenBros
+# HeisenBros
 
-**One more bug. One more level.**
 
-A game-flavoured portfolio site with a Breaking Bad streak.
-Built by hand, no framework, no build step.
-
-[Live site](https://heisenbros-1.vercel.app/)
+[Heisenbros](https://heisenbros-1.vercel.app/)
 
 </div>
 
